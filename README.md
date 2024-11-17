@@ -22,18 +22,22 @@
 ## Screenshots  
 
 ### Add Contact Page  
-![Add Contact Page]
+
 <img src="https://github.com/Sudarshan-k1604/ERINO---Contact-Management-System/blob/master/erino1.jpg" />
+
+
 - A sleek form with fields for *First Name, **Last Name, **Phone Number, **Email, **Company, and **Job Title*.  
 - Input fields are adorned with intuitive icons for better user engagement.  
 - Includes *Submit* and *Reset* buttons for ease of use.  
 - Styled with a calming light blue background and a bold *"Add Contact"* heading.
-  <img src="https://github.com/Sudarshan-k1604/ERINO---Contact-Management-System/blob/master/erino11.jpg"/>
    
 
 ### Contact List Page  
-![Contact List Page]
+
+
 <img src="https://github.com/Sudarshan-k1604/ERINO---Contact-Management-System/blob/master/erino2.jpg?raw=true"/>
+
+
 - Displays a *searchable, **sortable, and **paginated* table of contacts.  
 - Columns include *Name, **Email, **Phone Number, **Company, **Job Title, and **Actions*.  
 - Features Edit and Delete icons for efficient contact management.  
