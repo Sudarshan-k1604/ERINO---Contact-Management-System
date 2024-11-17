@@ -22,7 +22,7 @@
 ## Screenshots  
 
 ### Add Contact Page  
-![Add Contact Page](./screenshots/add-contact-page.png)  
+![Add Contact Page](./screenshots/add-contact-page.png](https://github.com/Sudarshan-k1604/ERINO---Contact-Management-System/blob/master/erino1.jpg) 
 - A sleek form with fields for *First Name, **Last Name, **Phone Number, **Email, **Company, and **Job Title*.  
 - Input fields are adorned with intuitive icons for better user engagement.  
 - Includes *Submit* and *Reset* buttons for ease of use.  
